@@ -1,6 +1,9 @@
 # 🧠 EngiGuide — The Ultimate Engineering Companion
 Live Platform:
-👉 Visit 
+👉[Visit EngiGuide](https://amanvaishya.github.io/EngiGuide/)
+
+---
+
 🌍 About the Project
 EngiGuide isn’t just another website —
 it’s a complete ecosystem for engineering students and professionals.
