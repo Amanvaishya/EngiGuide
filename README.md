@@ -4,7 +4,8 @@ Live Platform:
 
 ---
 
-##🌍** About the Project**
+🌍About the Project
+---
 
 EngiGuide isn’t just another website —
 it’s a complete ecosystem for engineering students and professionals.
@@ -18,6 +19,7 @@ EngiGuide is designed to bridge the gap between academics and real-world skills,
 ---
 
 🎯 What Makes EngiGuide Special
+-
 📚 All-in-One Resource Hub — Notes, syllabus, and reference materials for every engineering branch and every semester.
 🧩 Universal Coverage — Content aligned with different universities and curriculums across India.
 ⚙️ Skill-Based Learning — Includes trending technologies & industry skills like AI, Data Science, Cloud, Cybersecurity, etc.
@@ -27,6 +29,7 @@ EngiGuide is designed to bridge the gap between academics and real-world skills,
 
 ---
 🧠 Vision
+-
 To create a digital guidebook for engineers —
 where a student never has to search blindly for notes or skills again.
 
@@ -39,6 +42,7 @@ EngiGuide envisions a platform where:
 ---
 
 🛠️ How It Works
+-
 Browse by branch (e.g., CSE, ECE, ME, CE, EE, etc.)
 Choose your semester and access syllabus-aligned notes instantly.
 Explore skill sections for trending courses and certifications.
@@ -47,6 +51,7 @@ Stay updated with the latest tools, frameworks, and technologies in demand.
 
 ---
 🚀 Future Roadmap
+-
 🧾 User accounts for students and educators.
 🧑‍🏫 Instructor dashboard for organizing workshops & uploading content.
 🔎 Advanced search and AI-based recommendation for subjects and skills.
@@ -56,6 +61,7 @@ Stay updated with the latest tools, frameworks, and technologies in demand.
 
 ---
 💬 Why EngiGuide Matters
+-
 Engineering students often face two major problems:
 
 Scattered academic resources.
@@ -68,6 +74,7 @@ EngiGuide helps you learn, share, and grow in the evolving world of engineering.
 ---
 
 👨‍💻 Created & Designed By
+-
 Aman kumar vaishya
 🎓 B.Tech CSE (AI Specialization) | Full Stack Developer | Visionary Creator
 🔗 Visit Live Project
