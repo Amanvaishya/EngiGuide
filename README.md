@@ -4,7 +4,7 @@ Live Platform:
 
 ---
 
-🌍 About the Project
+##🌍 About the Project
 EngiGuide isn’t just another website —
 it’s a complete ecosystem for engineering students and professionals.
 
