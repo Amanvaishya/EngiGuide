@@ -12,7 +12,7 @@ it’s a complete ecosystem for engineering students and professionals.
 
 The goal is simple yet powerful:
 
-To make engineering education accessible, structured, and industry-ready for everyone — no matter which college, university, or branch you belong to.
+-To make engineering education accessible, structured, and industry-ready for everyone — no matter which college, university, or branch you belong to.
 
 EngiGuide is designed to bridge the gap between academics and real-world skills, offering not only subject notes but also industry-relevant learning paths, skill-based modules, and faculty interaction features — all in one unified platform.
 
