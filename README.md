@@ -19,7 +19,7 @@ EngiGuide is designed to bridge the gap between academics and real-world skills,
 ---
 
 🎯 What Makes EngiGuide Special
--📚 All-in-One Resource Hub — Notes, syllabus, and reference materials for every engineering branch and every semester.
+-📚 **All-in-One Resource Hub** — Notes, syllabus, and reference materials for every engineering branch and every semester.
 -🧩 Universal Coverage — Content aligned with different universities and curriculums across India.
 -⚙️ Skill-Based Learning — Includes trending technologies & industry skills like AI, Data Science, Cloud, Cybersecurity, etc.
 -👩‍🏫 For Students and Professionals — Teachers, professors, and experts can host workshops, webinars, and online sessions to guide students directly through the platform.
