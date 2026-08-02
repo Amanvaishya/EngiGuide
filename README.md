@@ -76,8 +76,7 @@ EngiGuide helps you learn, share, and grow in the evolving world of engineering.
 -
 Aman kumar vaishya
 🎓 B.Tech CSE (AI Specialization) | Full Stack Developer | Visionary Creator
-🔗 Visit Live Project
-
+🔗[Visit EngiGuide](https://amanvaishya.github.io/EngiGuide/)
 ---
 
 “EngiGuide is not just a platform — it’s a movement to make engineering smarter, practical, and limitless.”
